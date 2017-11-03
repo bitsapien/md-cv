@@ -1,168 +1,153 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: bitsapien's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Rahul C
+Web Developer
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:bitsapien@gmail.com">bitsapien@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="https://github.com/bitsapien">bitsapien</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/755421/bitsapien">bitsapien</a>
+|
+<i class="fa fa-phone"></i> <a href="call:+917903288450">+917903288450</a>
 </div>
 
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a Full Stack Web Developer at [eLitmus](https://www.elitmus.com). I take care of multiple applications(both client facing and internal), from conceptualizing features, building them, fixing bugs, to handling their deployments. 
 
 ## Employment
 
 `2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+__eLitmus Evaluations Pvt Ltd__ Full Stack Web Developer
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2012-2015`
+__Jawaharlal Nehru Technological University__ Bachelors of Technology (_Electrical and Electronic Engineering_)
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+`2009-2011`
+__Sri Chaitanya Junior Kalasala__ Board of Intermediate Education Andhra Pradesh
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
-
-## Presentations
-
-### Tutorials
-
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
-
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
-
-
-## Publications
-
-<!-- ### Journals -->
-`2017`
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
-
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
-## Technical skills
-
-* R
-* Statistics
-* LaTeX
-* Git / Mercurial
-* UNIX
-* Python
-* Machine learning
-* Bash
-* Emacs
-* Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
-* HTML and CSS
-* Javascript
+`1998-2011`
+__Carmel Junior College__ Indian Certificate of Secondary Education
 
 ## Projects
 
-### blog
+### eLitmus.com
+`2015 - `
 
-I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
+The application contains code for both the candidate side and administrator side. I built a bunch of features, fixed bugs, cleansed dirty code(heavy refactoring), sped  up the test suite.
 
-### EdinbR
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
+### [Acmesmith](https://github.com/sorah/acmesmith)
+`2017`
 
-### datarea
+A ruby gem for automating fetching SSL certificates from ACME supported CAs like Let's Encrypt. This project was originally a CLI tool. Refactored the code such that ruby APIs were made available for easy integration with ruby projects.
 
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
+### Themis
+`2017`
+A Rails backend and an Android application for attendance of employees when they are on the event site.
 
-## Awards
+### Faces
+`2016`
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
+This application takes care of cropping out photographs and archiving admit cards related to our tests. Ported the application from a local machine to the cloud(AWS). Since, storage is not plenty on the cloud given the nature of the application, wrote a storage driver similar to the "fog" gem to switch storage options(eg: local, s3, azure-storage). This is a Rails application that uses programs like _imagemagick_.
 
-MRC Full postgraduate scholarship (MSc fees + stipend)
+### Chef cookbooks
+`2016 - `
 
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
+Wrote a bunch of cookbooks for deploying our applications onto the cloud. 
 
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
+### Anuvaad
+`2016`
 
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+Rails application which takes a pseudo code as input and writes skeleton code for a given inputs/outputs which involves code that needs to read from STDIN and write to STDOUT. Pseudo code has to be written once, and the application will output skeleton code in 12 different languages(C,C++,Java,PHP,Python,Python3,C#,.NET,Swift,Ruby,Javascript,Objective-C).
 
 
-## Links
+## Others
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
 
-## References
+Minor contributions to the following projects:
 
-Available on request.
+* [select2-rails](https://github.com/argerim/select2-rails)
+* [itermocil](https://github.com/bitsapien/itermocil)
+* [gitlab-ce](https://gitlab.com/gitlab-org/gitlab-ce)
+* [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+
+
+## Languages/Technologies
+
+* HTML/CSS
+* Ruby
+* MySQL
+* Javascript
+* PHP
+* Python
+* Vim
+* Rails
+* EmberJS
+* Chef
+* Android
+
+
+
+
+
+## Activities
+
+### Mentoring
+
+Mentored freshers to help them transition from college to industry. Improved team bonding and code quality in the process.
+
+### Game Design
+
+Designed a treasure hunt of sorts that involved both offline and online components. Clues were hidden in specific pages of our web applications. The tresure hunt was coordinated by a _Slack_ bot that I specifically created for this event.
+
+### Art
+
+Designed shirts for the technology team, created curios for the office space, rebranded the cover of a book(_What I Did Not Learn At IIT_).
+
+### Hiring
+
+I'm incharge of recruiting people into the technology team at eLitmus. I was involved in the complete process that included shortlisting, question paper creation, conducting the test, making a pre-placement talk, and interviewing candidates.
+
+### STUCH
+
+I co-founded the college magazine - STUCH to create a common forum for students to express. I took up the role of leading the design team and co-headed the editorial board. Also, started a website so ideas need not wait for a month to be published.
+
+### EduCare
+
+Taught Mathematics and English to a set of poor and needy children who could not afford school.
+
+## Certification
+
+AWS Certified Solutions Architect - Associate _Udemy_
+
+MTX.1x: Introduction to Metrics for Smart Cities _IEEE_
+
+UT.6.02x: Embedded Systems - Shape the World _The University of Texas System_
+
+The Data Scientist's Toolbox _John Hopkins University_
+
+Machine Learning _Stanford University_
+
+MAS.S69x: Big Data and Social Physics _MITx_
+
+Zonal Winner, National Networking Security Championship _IIT Delhi_
+
+Android Beginner's Module _Computer Society of India_
+
+## Internship
+
+`2014-14`
+__Tata Steel__ (_Jamshedpur, India_)
+Worked in the electrical department of the blast furnace namely LD01. Learnt the design and maintainence of systems in the plant.
+
+
 
 <!-- ### Footer
 
