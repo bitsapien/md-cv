@@ -12,17 +12,17 @@ Web Developer
 |
 <i class="fa fa-stack-overflow"></i> <a href="https://stackoverflow.com/users/755421/bitsapien">bitsapien</a>
 |
-<i class="fa fa-phone"></i> <a href="call:+917903288450">+917903288450</a>
+<i class="fa fa-phone"></i> <a href="call:+919502980295">+919502980295</a>
 </div>
 
 
 ## Currently
 
-I'm a Full Stack Web Developer at [eLitmus](https://www.elitmus.com). I take care of multiple applications(both client facing and internal), from conceptualizing features, building them, fixing bugs, to handling their deployments. 
+I'm a Full Stack Web Developer at [eLitmus](https://www.elitmus.com). I take care of multiple applications (both client facing and internal), from conceptualizing features, building them, fixing bugs, to handling their deployments. 
 
 ## Employment
 
-`2015-` 
+`2015 -` 
 __eLitmus Evaluations Pvt Ltd__ Full Stack Web Developer
 
 ## Education
@@ -31,7 +31,7 @@ __eLitmus Evaluations Pvt Ltd__ Full Stack Web Developer
 __Jawaharlal Nehru Technological University__ Bachelors of Technology (_Electrical and Electronic Engineering_)
 
 `2009-2011`
-__Sri Chaitanya Junior Kalasala__ Board of Intermediate Education Andhra Pradesh
+__Sri Chaitanya Junior Kalasala__ Board of Intermediate Education, Andhra Pradesh
 
 `1998-2011`
 __Carmel Junior College__ Indian Certificate of Secondary Education
